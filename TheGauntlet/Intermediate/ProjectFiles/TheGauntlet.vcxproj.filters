@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TheGauntlet.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheGauntlet.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TheGauntletEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TheGauntlet">
+      <UniqueIdentifier>{73C1CE49-F1FF-36E0-9926-0299A8926236}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheGauntlet\TheGauntlet.Build.cs">
+      <Filter>Source\TheGauntlet</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TheGauntlet\TheGauntlet.cpp">
+      <Filter>Source\TheGauntlet</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGauntlet\TheGauntlet.h">
+      <Filter>Source\TheGauntlet</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGauntlet\TheGauntletCharacter.cpp">
+      <Filter>Source\TheGauntlet</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGauntlet\TheGauntletCharacter.h">
+      <Filter>Source\TheGauntlet</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGauntlet\TheGauntletGameMode.cpp">
+      <Filter>Source\TheGauntlet</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGauntlet\TheGauntletGameMode.h">
+      <Filter>Source\TheGauntlet</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
