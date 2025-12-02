@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ricca\\onedrive\\documenti\\fork\\thegauntlet\\thegauntlet\\source\\thegauntlet\\gamelevelmanager.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ricca\\onedrive\\documenti\\fork\\thegauntlet\\thegauntlet\\intermediate\\build\\win64\\x64\\thegauntleteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ricca\\onedrive\\documenti\\fork\\thegauntlet\\thegauntlet\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\thegauntlet\\definitions.thegauntlet.h",
+            "c:\\users\\ricca\\onedrive\\documenti\\fork\\thegauntlet\\thegauntlet\\source\\thegauntlet\\gamelevelmanager.h",
+            "c:\\users\\ricca\\onedrive\\documenti\\fork\\thegauntlet\\thegauntlet\\intermediate\\build\\win64\\unrealeditor\\inc\\thegauntlet\\uht\\gamelevelmanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

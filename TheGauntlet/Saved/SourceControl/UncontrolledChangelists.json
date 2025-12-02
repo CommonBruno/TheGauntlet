@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/ricca/OneDrive/Documenti/Fork/TheGauntlet/TheGauntlet/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/ricca/OneDrive/Documenti/Fork/TheGauntlet/TheGauntlet/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/ricca/OneDrive/Documenti/Fork/TheGauntlet/TheGauntlet/Content/_Game/UI/B_Menu.uasset",
+				"C:/Users/ricca/OneDrive/Documenti/Fork/TheGauntlet/TheGauntlet/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/SX/SKO7AH9HKZVPN4OMFO4DV3.uasset"
 			]
 		}
 	]

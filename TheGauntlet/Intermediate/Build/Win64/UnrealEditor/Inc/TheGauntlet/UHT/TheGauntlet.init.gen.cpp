@@ -17,13 +17,13 @@ void EmptyLinkFunctionForGeneratedCodeTheGauntlet_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x52B20E91,
-				0xBA429A8E,
+				0x70A32F79,
+				0x05A9A2DD,
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_TheGauntlet.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_TheGauntlet.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_TheGauntlet(Z_Construct_UPackage__Script_TheGauntlet, TEXT("/Script/TheGauntlet"), Z_Registration_Info_UPackage__Script_TheGauntlet, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x52B20E91, 0xBA429A8E));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_TheGauntlet(Z_Construct_UPackage__Script_TheGauntlet, TEXT("/Script/TheGauntlet"), Z_Registration_Info_UPackage__Script_TheGauntlet, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x70A32F79, 0x05A9A2DD));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

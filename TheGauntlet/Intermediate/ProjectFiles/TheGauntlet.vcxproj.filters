@@ -11,6 +11,7 @@
     <None Include="..\..\Source\TheGauntletEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -32,6 +33,12 @@
     <Filter Include="Source\TheGauntlet">
       <UniqueIdentifier>{73C1CE49-F1FF-36E0-9926-0299A8926236}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\TheGauntlet\GameLevelManager.cpp">
+      <Filter>Source\TheGauntlet</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheGauntlet\GameLevelManager.h">
+      <Filter>Source\TheGauntlet</Filter>
+    </ClCompile>
     <None Include="..\..\Source\TheGauntlet\TheGauntlet.Build.cs">
       <Filter>Source\TheGauntlet</Filter>
     </None>
